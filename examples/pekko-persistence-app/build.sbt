@@ -27,7 +27,7 @@ val pekkoHttpVersion = "1.0.0"
 val pekkoHttp2SupportVersion = "0.0.0+4272-045c925b-SNAPSHOT"
 val pekkoManagementVersion = "1.0.0"
 val pekkoPersistenceJdbcVersion = "1.0.0"
-val pekkoProjectionVersion = "0.0.0+77-d4f6767f-SNAPSHOT"
+val pekkoProjectionVersion = "0.0.0+79-2f39f1e4-SNAPSHOT"
 val circeVersion = "0.14.6"
 val scalikeJdbcVersion = "3.5.0"
 
