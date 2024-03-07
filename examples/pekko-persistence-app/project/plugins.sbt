@@ -1,6 +1,6 @@
 resolvers += Resolver.ApacheMavenSnapshotsRepo
 
-val pekkoGrpcSbtPluginVersion = "1.0.2"
+val pekkoGrpcSbtPluginVersion = "1.0.3-M1"
 
 addSbtPlugin("com.github.sbt" % "sbt-native-packager" % "1.9.9")
 addSbtPlugin("org.apache.pekko" % "pekko-grpc-sbt-plugin" % pekkoGrpcSbtPluginVersion)
