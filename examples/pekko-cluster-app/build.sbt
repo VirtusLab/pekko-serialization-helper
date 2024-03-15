@@ -7,7 +7,7 @@ version := "0.1"
 scalaVersion := "2.13.13"
 
 val circeVersion = "0.14.6"
-val pekkoVersion = "1.0.2"
+val pekkoVersion = "1.0.3-M1"
 
 lazy val `pekko-cluster-app` = project
   .in(file("."))
