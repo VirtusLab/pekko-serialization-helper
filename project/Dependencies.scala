@@ -6,7 +6,7 @@ object Dependencies {
 
   val pekkoProjectionVersion = "1.0.0"
   val pekkoGrpcRuntimeVersion = "1.0.3"
-  val pekkoHttpCorsVersion = "1.0.1"
+  val pekkoHttpCorsVersion = "1.1.0-M1"
   val pekkoVersion = "1.0.3"
   val borerVersion = "1.8.0"
   val circeYamlVersion = "1.15.0"
