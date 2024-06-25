@@ -4,7 +4,7 @@ object Dependencies {
   val scalaVersion213 = "2.13.14"
   val scalaVersion212 = "2.12.19"
 
-  val pekkoProjectionVersion = "1.0.0"
+  val pekkoProjectionVersion = "1.1.0-M1"
   val pekkoGrpcRuntimeVersion = "1.0.3"
   val pekkoHttpCorsVersion = "1.1.0-M1"
   val pekkoVersion = "1.0.3"
