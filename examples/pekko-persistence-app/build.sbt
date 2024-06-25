@@ -23,7 +23,7 @@ Global / cancelable := false // ctrl-c
 ThisBuild / resolvers += Resolver.ApacheMavenSnapshotsRepo
 
 val pekkoVersion = "1.0.3"
-val pekkoHttpVersion = "1.0.1"
+val pekkoHttpVersion = "1.1.0-M1"
 val pekkoHttp2SupportVersion = "0.0.0+4272-045c925b-SNAPSHOT"
 val pekkoManagementVersion = "1.1.0-M1"
 val pekkoPersistenceJdbcVersion = "1.0.0"
