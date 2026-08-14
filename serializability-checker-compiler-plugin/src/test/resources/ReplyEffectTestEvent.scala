@@ -1,7 +1,7 @@
 package org.random.project
 
-import akka.persistence.typed.scaladsl.ReplyEffect
-import org.virtuslab.ash.annotation.SerializabilityTrait
+import org.apache.pekko.persistence.typed.scaladsl.ReplyEffect
+import org.virtuslab.psh.annotation.SerializabilityTrait
 
 object ReplyEffectTestEvent {
   @SerializabilityTrait
